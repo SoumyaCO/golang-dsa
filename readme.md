@@ -25,6 +25,9 @@
 ### Recursion
 - [binary search](./binarySearch.go)
 
+## Sliding window
+- [Best time to buy and sell a stock(maxProfit)](./bestTimeToBuyAndSellStocks.go)
+
 
 > *More to come...*
 
